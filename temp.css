@@ -1,0 +1,38 @@
+html
+{
+    border: solid;
+    background-image: url("https://wallpapercave.com/wp/wp3157012.jpg");
+}
+h1
+{
+    color: brown;
+    font-size: 50px;
+    display: block; 
+    position: absolute;
+}
+.app
+{
+    width: 100%;
+    height: 100vh; display: flex; justify-content: center;
+}
+.buttonGroup
+{
+    padding: 30%;
+    position: absolute;
+}
+button 
+{
+
+    position: absolute;
+    display: flex;
+    cursor: pointer;
+    margin: 0 10px;
+    padding: 10px 30px;
+    background-image: url("") ;
+    background-color: rgb(245, 229, 86);
+    border: none;
+}
+.button--no
+{ 
+    right:50%;
+}
